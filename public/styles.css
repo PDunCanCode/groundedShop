@@ -1340,10 +1340,6 @@ img {
   background-repeat: no-repeat;
 }
 
-.grocery-main-banner.electronics-bg {
-  background-image: url(images/electronics-bg.jpg);
-}
-
 .grocery-banner-content {
   max-width: 720px;
   text-align: center;
