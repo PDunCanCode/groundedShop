@@ -1,0 +1,16 @@
+{
+  "react-apexcharts": [
+    {
+      "id": "ujAs",
+      "name": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/6c44d60f.eddc1c0a8b04845c2256.js",
+      "publicPath": "static/chunks/6c44d60f.eddc1c0a8b04845c2256.js"
+    },
+    {
+      "id": "o+DJ",
+      "name": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/16.bc326830814f766deb03.js",
+      "publicPath": "static/chunks/16.bc326830814f766deb03.js"
+    }
+  ]
+}

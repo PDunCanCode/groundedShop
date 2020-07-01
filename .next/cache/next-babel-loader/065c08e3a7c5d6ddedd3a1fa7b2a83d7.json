@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nconst Custom404 = () => {\n  return __jsx(\"div\", {\n    className: \"error-area\"\n  }, __jsx(\"p\", null, \"404 - Page Not Found\"));\n};\n\nexport default Custom404;","map":null,"metadata":{},"sourceType":"module"}
